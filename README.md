@@ -20,7 +20,7 @@
 ![Youtube][Channel link]
 ![YouTube Channel Subscribers][Youtube-url]
 ![LinkedIn url][LinkedIn url]
-![Aashiqui Discord][Discord-url]
+<!--![Aashiqui Discord][Discord-url]-->
 ![Aashiqui Replit][replit url]
 ![Aashiqui Leetcode][Leetcode-Url]
 ![Aashiqui HackerRank][hackerrank url]
