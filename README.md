@@ -4,7 +4,7 @@
 
 # Hey 👋 What's up?👋, I'm Aashiqui👒
 
-## I'm a Freelauncer, Developer ,Technical Trainer, and Content Creator
+## I'm a Freelancer, Developer ,Technical Trainer, and Content Creator
 
 - 👨‍🏫 I enjoy teaching coding skills as well as helping students & fellow developers.
 - 🌱 I'm currently growing my [Youtube Channel][youtube]
